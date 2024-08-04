@@ -13,17 +13,13 @@
     В дополнение к основному обучению, я с увлечением занимаюсь полностековой разработкой и технологиями Web 3. Это направление меня особенно привлекает, и я стараюсь углубить свои знания и навыки в этой области.
 </p>
 
-<!--
-**FlexonaFFt/FlexonaFFt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+    Languages and Tools
+</h2>
+&nbsp;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="" title="My Skills">
+        <img src="https://skillicons.dev/icons?i=vscode,ts,js,nodejs,react,express,netlify,nextjs,react,mongodb,docker,linux,postgres,go,python,bots,git,github,cloudflare,html,css&perline=7" width="" />
+    </a>
+</p>
