@@ -20,6 +20,6 @@
 
 <p align="center">
     <a href="" title="My Skills">
-        <img src="https://skillicons.dev/icons?i=vscode,ts,js,nodejs,react,express,netlify,nextjs,react,mongodb,docker,linux,postgres,go,python,bots,git,github,cloudflare,html,css&perline=7" width="" />
+        <img src="https://skillicons.dev/icons?i=vscode,ts,js,nodejs,react,nextjs,python,django,react,mongodb,docker,linux,postgres,go,python,bots,git,github,cloudflare,html,css&perline=7" width="" />
     </a>
 </p>
