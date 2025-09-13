@@ -15,6 +15,6 @@
 
 <p align="center">
     <a href="" title="My Skills">
-        <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,nextjs,django,vercel,postman,postgres,docker,git,github,gitlab,vscode,vim,bash,html,css,pytorch,fastapi&perline=7" width="" />
+        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,react,nextjs,django,vercel,postman,postgres,docker,git,github,gitlab,bash,ts,js,html,css,kafka,fastapi&perline=7" width="" />
     </a>
 </p>
