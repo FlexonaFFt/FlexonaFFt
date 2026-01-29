@@ -1,20 +1,34 @@
-<h2 align="center">
-    Hello there! I'm <strong>FlexonaFFt</strong>.
-</h2>
-&nbsp;
+<h2 align="center">Hi, I'm Igor Zharov 👋</h2>
 
-<p align="justify">
-    My name is Igor, and I am a student of the Faculty of Computer Science at the Don State Technical University, specializing in machine learning. It is not just about being a programmer; the idea is to become a person who sincerely loves one's work and seeks continuous development in this sphere.
-    I would love to work with new materials and technologies, studying them actively. Besides general training, I am especially interested in the development of Web 3. What lures me is its novelty and great perspectives for creating completely new solutions. I try to deepen my knowledge and skills in this sphere by means of participation in various projects and initiatives concerning Web development.
+<p align="center">
+  Junior Machine Learning Engineer • Backend Developer • Competitive Programming
 </p>
 
-<h2 align="center">
-    Languages and Tools
-</h2>
-&nbsp;
+---
+
+## 🧠 About Me
+
+I’m a Computer Science student focused on Machine Learning. I enjoy working on practical ML projects, taking part in hackathons and competitions, and exploring areas like NLP, recommender systems, and deep learning.
+
+---
+
+## 🚀 Highlights
+
+- Won 1st place in an ML hackathon solving an industry banking case under high competition  
+- Delivered a computer vision solution for UAV-based search-and-rescue, placing Top-6 out of 60+ teams  
+- Selected among Top-50 projects at CU Intense Lab and invited to an onsite intensive in Moscow  
+- Achieved 42nd place in Yandex ML Data Dojo and regularly participate in Yandex ML contests
+- Competitive ML experience: YandexCup (AIDAO), CodeRun (Top-40), ML Trainings   
+
+---
+
+## 🧰 Tech Stack
+
 
 <p align="center">
     <a href="" title="My Skills">
-        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,react,nextjs,django,vercel,postman,postgres,docker,git,github,gitlab,bash,ts,js,html,css,kafka,fastapi&perline=7" width="" />
+        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,postman,postgres,docker,git,github,gitlab,fastapi,django,bash,supabase,mongodb,mysql,sqlite,matlab,opencv,anaconda,kafka&perline=7" width="" />
     </a>
 </p>
+
+---
