@@ -15,7 +15,7 @@ I got into machine learning because it's genuinely hard — and that's exactly w
 ## 🏆 Highlights
 
 - Won 1st place twice at the Southern IT Forum, solving industry ML cases in banking and finance under high competition
-- Delivered a computer vision solution for UAV-based search-and-rescue at Archipelag 2025, placing 6th out of 150+ teams
+- Placed 6th out of 150+ teams at Archipelag 2025 with a UAV search-and-rescue CV solution
 - Selected among Top-50 projects at CU Intense Lab and invited to an onsite intensive in Moscow
 - Achieved 42nd place out of 1000+ participants in Yandex ML Data Dojo
 - Competitive ML experience: YandexCup (AIDAO), CodeRun (Top-39), Yandex ML Trainings
